@@ -1,3 +1,5 @@
+This is a fork of http://github.com/fizx/thread_pool
+_____________________
 This code is still pretty early, and not yet used in production.  That said, I am interested in feedback.  You can send me a message on GitHub's internal messaging system ( http://github.com/inbox/new/fizx ).
 
 A simple executor-style ThreadPool for Ruby (with tests, yay!)

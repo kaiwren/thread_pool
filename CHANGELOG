@@ -1,3 +1,5 @@
+Current
+- Moved to Rspec, added specs as default in build
 0.3.1
 - rescue Thread errors, use Loggable to print backtraces
 0.3.0

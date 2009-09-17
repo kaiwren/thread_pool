@@ -4,10 +4,10 @@ Gem::Specification.new do |s|
   s.date     = "2008-09-24"
   s.summary  = "A ruby thread pool"
   s.email    = "kyle@kylemaxwell.com"
-  s.homepage = "http://github.com/fizx/thread_pool"
+  s.homepage = "http://github.com/kaiwren/thread_pool"
   s.description = "A simple thread pool"
   s.has_rdoc = true
-  s.authors  = ["Kyle Maxwell"]
+  s.authors  = ["Kyle Maxwell", "Sidu Ponnappa"]
   s.files    = %w[
     README CHANGELOG lib/thread_pool.rb
     ]
